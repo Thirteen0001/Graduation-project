@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CameraShake
+  - Coin
+  - SavePoint
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - Sprite
+  - MovingPlatform
+  - OneWayPlatform
+  - Item
+  - TriggerBox
+  - Spike
+  - DestructibleLayer
+  - AirWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 40647975
+    locked: 0
+  - name: Ground
+    uniqueID: 2722630331
+    locked: 0
+  - name: Item
+    uniqueID: 2324836691
+    locked: 0
+  - name: Enemy
+    uniqueID: 1751038699
+    locked: 0
+  - name: Player
+    uniqueID: 1284962197
+    locked: 0
+  - name: Water
+    uniqueID: 1871538911
+    locked: 0
